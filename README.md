@@ -1,10 +1,16 @@
 # :beer:  My name is Luck. Nice to meet you all :beer:
 
+My name is Pattarathon Watanakij, you can call me Luck and I work at Twinmoon Studio as software engineer.
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=lucky-patty&theme=dark&show_icons=true&count_private=true)
+
 ## I'm a Student and Dreamer
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Launch all the projects at [Twinmoon]
 - ⚡ Fun fact: I love to play game and guitar
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-patty&layout=compact)
 
 ### Connect with me:
 
