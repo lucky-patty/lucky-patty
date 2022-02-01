@@ -2,7 +2,7 @@
 
 My name is Pattarathon Watanakij, you can call me Luck and I work at Twinmoon Studio as software engineer.
 
-![Github stats](https://github-readme-stats-twinmoon.vercel.app/api?username=lucky-patty&theme=dark&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats-eta-five-33.vercel.app/api?username=lucky-patty&theme=dark&show_icons=true&count_private=true)
 
 ## I'm a Student and Dreamer
 
@@ -10,7 +10,7 @@ My name is Pattarathon Watanakij, you can call me Luck and I work at Twinmoon St
 - 🥅 2022 Goals: Launch all the projects at [Twinmoon]
 - ⚡ Fun fact: I love to play game and guitar
 
-![Top Languages Card](https://github-readme-stats-twinmoon.vercel.app/api/top-langs/?username=lucky-patty&layout=compact)
+![Top Languages Card](https://github-readme-stats-eta-five-33.vercel.app/api/top-langs/?username=lucky-patty&layout=compact)
 
 ### Connect with me:
 
