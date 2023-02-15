@@ -1,14 +1,14 @@
 # :beer:  My name is Luck. Nice to meet you all :beer:
 
-My name is Pattarathon Watanakij, you can call me Luck and I work at Twinmoon Studio as software engineer.
+My name is Pattarathon Watanakij, you can call me Luck and I am software engineer!
 
 ![Github stats](https://github-readme-stats-eta-five-33.vercel.app/api?username=lucky-patty&theme=dark&show_icons=true&count_private=true)
 
 ## I'm a Student and Dreamer
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Launch all the projects at [Twinmoon]
-- ⚡ Fun fact: I love to play game and guitar
+- 🥅 2023 Goals: Launch all of my projects!
+- ⚡ I currently in love with Rust and nothing gonna stop me besides all of those new js frameworks that came out twice every week!
 
 ![Top Languages Card](https://github-readme-stats-eta-five-33.vercel.app/api/top-langs/?username=lucky-patty&layout=compact)
 
@@ -22,7 +22,7 @@ My name is Pattarathon Watanakij, you can call me Luck and I work at Twinmoon St
 <br />
 
 [website]: https://pattarathon.com
-[twitter]: https://twitter.com/kouunnji
+[twitter]: https://twitter.com/luck.wtj
 [instagram]: https://instagram.com/luckymusician
 [linkedin]: https://linkedin.com/in/pattarathon-watanakij-10856a121
 [Twinmoon]: https://twinmoon.studio/
