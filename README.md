@@ -1,14 +1,14 @@
 # :beer:  My name is Luck. Nice to meet you all :beer:
 
-My name is Pattarathon Watanakij, you can call me Luck and I am software engineer!
+My name is Pattarathon Watanakij, you can call me Luck and I am a software engineer!
 
 ![Github stats](https://github-readme-stats-eta-five-33.vercel.app/api?username=lucky-patty&theme=dark&show_icons=true&count_private=true)
 
 ## I'm a Student and Dreamer
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Launch all of my projects!
-- ⚡ I currently in love with Rust and nothing gonna stop me besides all of those new js frameworks that came out twice every week!
+- 🥅 2025 Goals: Push my projects to grants!
+- ⚡ I am in love with Elxir and Zig!
 
 ![Top Languages Card](https://github-readme-stats-eta-five-33.vercel.app/api/top-langs/?username=lucky-patty&layout=compact)
 
